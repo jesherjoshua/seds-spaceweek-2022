@@ -17,3 +17,5 @@ https://pandas.pydata.org/docs/getting_started/
 https://scikit-learn.org/stable/getting_started.html
 
 https://github.com/donnemartin/data-science-ipython-notebooks
+
+[PPT](https://www.canva.com/design/DAFN4kcZVMg/v8qWYTrVtM2ayn1Rn46sjg/view?utm_content=DAFN4kcZVMg&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
