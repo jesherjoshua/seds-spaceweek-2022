@@ -3,7 +3,8 @@
 This repository contains all the jupyter notebooks, reference materials
 and hyperlinks used for the SEDS ANTARIKSH DATA SCIENCE WORKSHOP conducted
  for SPACE WEEK 2022.
-
+### Session 3: Galaxy Classification using Decision Tree Classifiers
+[https://colab.research.google.com/drive/1HNR3CsyXt3Reg5VLaLzYFgO25fWmPnMh?usp=sharing)
 ## References:
 
 [https://numpy.org/doc/stable/reference/generated/numpy.dstack.html](https://numpy.org/doc/stable/reference/generated/numpy.dstack.html)
