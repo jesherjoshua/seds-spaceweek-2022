@@ -62,7 +62,7 @@ def median_bins_fits(filenames, B):
   return mean, std, left_bin, bins
 
 
-def median_approx_fits(filenames, B):
+def median_approx_fits(filenames, B=10):
   mean, std, left_bin, bins = median_bins_fits(filenames, B)
     
   dim = mean.shape # Dimension of the FITS file arrays
