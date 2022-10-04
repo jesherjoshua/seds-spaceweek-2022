@@ -11,3 +11,9 @@ and hyperlinks used for the SEDS ANTARIKSH DATA SCIENCE WORKSHOP conducted
 [https://numpy.org/doc/stable/index.html](https://numpy.org/doc/stable/index.html)
 
 https://www.mwatelescope.org
+
+https://pandas.pydata.org/docs/getting_started/
+
+https://scikit-learn.org/stable/getting_started.html
+
+https://github.com/donnemartin/data-science-ipython-notebooks
