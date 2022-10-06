@@ -24,6 +24,6 @@ https://github.com/donnemartin/data-science-ipython-notebooks
 
 https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-[PPT](https://www.canva.com/design/DAFN4kcZVMg/v8qWYTrVtM2ayn1Rn46sjg/view?utm_content=DAFN4kcZVMg&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+[Pulsars](https://www.canva.com/design/DAFN4kcZVMg/v8qWYTrVtM2ayn1Rn46sjg/view?utm_content=DAFN4kcZVMg&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 [Intro to Astronomy](https://www.canva.com/design/DAFODlV07rI/KMZkw91iNHRYKQ-3QNjguw/edit?utm_content=DAFODlV07rI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
